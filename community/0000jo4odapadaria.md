@@ -45,4 +45,4 @@ Ela é gatinha tem muitas qualidades também. Além da aparência o que me pegou
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c%2B%2B&logoColor=AA42F7)
 
 Talvez eu volte pra atualizar essa porcaria um dia ou apenas esqueça como quase tudo que eu começo e não termino.  Se loko muito aluno ruim pra pouca vaga. Bora contratar uns indianos ou asiáticos que são bem melhores e mais baratos.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=AA42F7&width=435&lines=Queremos+ser+cadelas+corporativas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1666&color=AA42F7&width=435&lines=Queremos+ser+cadelas+corporativas)](https://git.io/typing-svg)
